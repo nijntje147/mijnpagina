@@ -1,0 +1,24 @@
+.navbar{
+    background-color: lavenderblush;
+    border-radius: 0;
+    border-style: dotted;
+    border-color: plum;
+    margin-bottom: 15px;
+    color: blueviolet;
+}
+
+.container-sm{
+    background-color: papayawhip;
+    margin-bottom: 15px;
+}
+
+.col{
+    padding: 15px;
+}
+
+.btn{
+    border-radius: 0;
+    background-color: coral;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
